@@ -1,0 +1,6 @@
+https://teachablemachine.withgoogle.com/models/hlgiuG_3Q/
+
+
+sister
+mother
+father
